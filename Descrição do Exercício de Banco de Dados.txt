@@ -1,0 +1,43 @@
+Descrição do Exercício 
+	Apresente uma solução para uma loja de lanches. Siga as instruções abaixo:
+
+Instruções
+	-	No VSCode para construa as tabelas e popule todas com as informações do arquivo "informacoes.sql"
+	-	Leia atentamente a descrição do Caso 1
+	-	Sua missão é construir um SQL para cada uma das tarefas que estiverem listadas para o Caso 1
+	-	Coloque as respostas, ou seja, os SQLs que você construir no arquivo "sql-resposta-do-desafio-1.txt"
+	-	Siga para o Caso 2 e faça o mesmo: leia o desafio e coloque as respostas no arquivo "sql-resposta-do-desafio-2.sql"
+	-	Se terminar o tempo, faça o commit de tudo que você tiver, não importa se está funcionando ou não. Avaliaremos tudo que você fez.
+
+
+CASO 1 - DESCRIÇÃO
+	
+	Construa o banco de dados conforme o arquivo anexo "INFORMACOES.SQL" e depois responda as perguntas abaixo.
+
+CASO 1 - TAREFAS:
+
+	1 - O que é um banco de dados? dê um exemplo bem descrito.
+
+	2 - Para que serve a chave primária? dê um exemplo bem descrito.
+
+	3 -	Para que serve a chave estrangeira? dê um exemplo bem descrito.
+
+	4 - O que é o tipo BOOLEAN, pra que serve? dê um exemplo bem descrito.
+
+
+CASO 2 - DESCRIÇÃO
+	Após as respostas acima. Abaixo segue questões práticas de SQL.
+
+CASO 2 - TAREFA:
+
+	1 - Escreva uma consulta SQL para selecionar todos os lanches da tabela "Lanches".
+
+	2 - Escreva uma consulta SQL para selecionar apenas os lanches que têm valor acima de 13 reais.
+
+	3 -	Escreva uma consulta SQL para selecionar todos os pedidos na tabela pedidos como "Liberado Para entrega".
+
+	4 - Escreva uma consulta SQL para selecionar todos as entregas na tabela entregas como "Entregue".
+
+	5 - Escreva uma consulta SQL que retorne todos os pedidos "Cancelados" em ambas as tabelas pedidos e entregas.
+
+	
